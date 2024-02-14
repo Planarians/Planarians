@@ -2,7 +2,6 @@ Hi there, I 'am Planarians👋
 
 I am a Java developer from China currently seeking job opportunities in London, UK.
 
-· ⚡ Java / Rust. Next.js / Serverless. PyTorch. Adversarial examples / Steganography / AI security.
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/xiaolei-han-00215115a/?locale=en_US)
 - 💬 Ask me about anything [here](https://github.com/Planarians/Planarians/issues)
 
