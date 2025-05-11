@@ -2,7 +2,7 @@ Hi there, I 'am Planarians👋
 
 I am a Java developer from China currently seeking job opportunities in London, UK.
 
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/xiaolei-han-00215115a/?locale=en_US)
+- 📫 How to reach me:  [LinkedIn]()
 - 💬 Ask me about anything [here](https://github.com/Planarians/Planarians/issues)
 
 <!--
